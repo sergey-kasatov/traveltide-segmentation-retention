@@ -205,3 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Data (keep local)
+data/raw/
+data/processed/
+data/interim/
+
+# IDE
+.idea/
+.venv/
+.env
