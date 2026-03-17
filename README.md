@@ -13,6 +13,10 @@ This project includes two segmentation approaches:
 1) **Rule-based (manual) segmentation** using business logic + behavioral metrics.
 2) **ML-based segmentation** (clustering) to discover data-driven segments and compare them with the manual approach.
 
+## Data
+Source: TravelTide dataset (Mastery Project).  
+Note: Full dataset is kept local; this repo may include small samples for demonstration.
+
 ## Repository structure
 - `notebooks/` — EDA and modeling notebooks
 - `sql/` — queries / notes
