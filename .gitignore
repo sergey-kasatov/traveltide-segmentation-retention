@@ -207,9 +207,9 @@ marimo/_lsp/
 __marimo__/
 
 # Data (keep local)
-data/outputs/
-data/processed/
-data/interim/
+#data/outputs/
+#data/processed/
+#data/interim/
 
 # IDE
 .idea/
