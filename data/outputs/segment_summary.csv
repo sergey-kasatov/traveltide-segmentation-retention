@@ -1,0 +1,6 @@
+rule_based_segment,segment_label,assigned_perk,user_count,user_share_pct
+exclusive_discounts,Price-Sensitive Users,Exclusive Discounts,1387,23.1
+free_hotel_meal,Hotel-Oriented Users,Free Hotel Meal,1259,21.0
+no_cancellation_fees,Flexibility-Seeking Travelers,No Cancellation Fees,1246,20.8
+free_hotel_night_with_flight,Bundled Travelers,1 Free Hotel Night (with flight),1132,18.9
+free_checked_bag,Baggage-Heavy Travelers,Free Checked Bag,974,16.2
