@@ -123,17 +123,19 @@ traveltide-segmentation-retention/
 │       └── segment_profile_summary.csv
 │
 ├── docs/
-│   ├── notes.md
+│   ├── traveltide_executive_summary.pdf
+│   ├── traveltide_detailed_report.pdf
 │   └── traveltide_precision_targeting_presentation.pdf
 │
 ├── images/
 │   ├── workflow_overview.png
 │   ├── user_level_signals.png
 │   ├── final_segments_and_perks.png
-│   └── methodology_comparison.png
+│   ├── methodology_comparison.png
+│   └── source_schema_overview.png
 │
 ├── notebooks/
-│   └── traveltide_precision_targeting.ipynb
+│   └── traveltide_segmentation_retention_final.ipynb
 │
 ├── sql/
 │   ├── 01_create_sessions_joined.sql

@@ -215,3 +215,5 @@ __marimo__/
 .idea/
 .venv/
 .env
+Thumbs.db
+.DS_Store
